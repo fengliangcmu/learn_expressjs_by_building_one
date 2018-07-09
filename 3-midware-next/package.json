@@ -1,0 +1,20 @@
+{
+  "name": "3-midware-next",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "array-flatten": "^2.1.1",
+    "merge-descriptors": "^1.0.1",
+    "methods": "^1.1.2"
+  }
+}
